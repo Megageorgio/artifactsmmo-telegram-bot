@@ -3,6 +3,7 @@
 ![Screenshot](./screenshot.png)
 
 Based on: [artifactsmmo-kotlin-starter](https://github.com/Cybermaxke/artifactsmmo-kotlin-starter "artifactsmmo-kotlin-starter")
+
 Features:
 - Market, bank, character info
 - Gathering (show resource only if you can gather it)
@@ -11,4 +12,5 @@ Features:
 - Equip items
 
 You need to fill tokens in config.json file
+
 Code quality is pretty bad please don't check it
