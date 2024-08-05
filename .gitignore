@@ -1,3 +1,9 @@
+savedData.json
+build
+.kotlin
+.idea
+.gradle
+
 # Compiled class file
 *.class
 
