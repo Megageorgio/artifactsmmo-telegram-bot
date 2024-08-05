@@ -829,7 +829,7 @@ fun main(): Unit = runBlocking {
                 var extraText = "Market Items:\n"
                 for (item in marketItems) {
                   if (item.stock != 0) {
-                    extraText += "- " + getItemFromCode(item.code)!!.name + " x" + item.stock + "( Buy: " + item.buyPrice + ", Sell: " + item.sellPrice + ")\n"
+                    extraText += "- " + getItemFromCode(item.code)!!.name + " x" + item.stock + " (Buy: " + item.buyPrice + ", Sell: " + item.sellPrice + ")\n"
                   }
                 }
 
