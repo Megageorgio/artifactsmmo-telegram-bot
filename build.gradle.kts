@@ -20,7 +20,7 @@ plugins {
   id("io.ktor.plugin") version "2.3.12"
 }
 
-group = "artifactsmmo-kotlin-starter"
+group = "artifactsmmo-telegram-bot"
 version = "1.0-SNAPSHOT"
 application {
   mainClass.set("ru.megageorgio.artifactsmmo.bot.MainKt")
